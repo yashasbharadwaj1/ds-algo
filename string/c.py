@@ -1,0 +1,10 @@
+a = ["geeksforgeeks", "geeks", "geek", "geezer"]
+a.sort()
+size=len(a)
+#print(a)
+#print(a[0])
+#print(a[len(a)-1])
+end=min(len(a[0]),len(a[len(a)-1]))
+print(end)
+print(a[0][0])
+print(a[size-1][0])
