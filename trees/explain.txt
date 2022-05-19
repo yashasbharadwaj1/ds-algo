@@ -1,0 +1,11 @@
+     100               0
+  30      40           1
+20  10   1   3         2 
+        3  2           3
+ 
+
+ 2 queues 
+ 1-current_queue=root-     
+2-next_queue---
+level_number=3
+output =100,30,40,20,10,1,3,3,2
